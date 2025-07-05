@@ -70,10 +70,8 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 
 ## Authors
 
-- Upkar Lidder (IBM)
-- Your GitHub Username
+- FaisalSWE
 
 ## Acknowledgments
 
 - Created for educational purposes
-- Part of a micro-finance initiative to provide financial calculation tools
